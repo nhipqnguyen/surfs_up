@@ -16,7 +16,7 @@ Below are the summary statistics for the June and December temperature data:
   
   ![December Temperature Statistics](https://github.com/nhipqnguyen/surfs_up/blob/main/Data/december_temps.png)
 
-- The average temperature in June is about 5 degrees higher than that in December (75 and 71, respectively).
+- The average temperature in June is about 4 degrees higher than that in December (75 and 71, respectively).
 - While we don't observe a big difference between the highest temperatures in June and December (85 and 83, respectively), the coldest day in December is significantly colder than that in June (56 and 64, respectively).
 - The ways temperatures are spread out in both sets are not much different. The temperatures in both months are quite normally distributed. The means are equal to the median (50th percentile), the 25th percentiles are approximately 1 standard deviation lower than the means, and the 75th percentiles are approximately 1 standard deviation higher than the means.
 
